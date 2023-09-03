@@ -20,6 +20,7 @@ Please leave yourcomments
 Any questions please connect YansenXu via: yansenxu@nuist.edu.cn
 
 References
+
 Zhaozhong Feng#*, Yansen Xu#, Kazuhiko Kobayashi#*, Lulu Dai, Tianyi Zhang, Evgenios Agathokleous, Vicent Calatayud, Elena Paoletti, Arideep Mukherjee, Madhoolika Agrawal, Rokjin J. Park, Yujin J. Oak, Xu Yue*. Ozone pollution threatens the production of major staple crops in East Asia. Nature Food, 2022, 3, 47-56. 
 
 Yansen Xu, Kazuhiko Kobayashi, Zhaozhong Feng*. Wheat yield response to elevated O3 concentrations differs between the world’s major producing regions. 2023. (In Preparation)
