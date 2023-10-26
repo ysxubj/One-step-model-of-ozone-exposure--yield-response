@@ -1,26 +1,23 @@
 # Wheat yield loss to ozone differs among regions
-This is a repository for compare wheat yield response to elevated O3 around the word (China, India, Europe and North America)
-The code and data were used in the manuscript "Wheat yield response to elevated O3 concentrations differs between the world’s major producing regions".
+This is a repository for compare wheat yield and yield components response to elevated O3 around the word (China, India, Europe and North America)
+The code and data were used in the manuscript "Wheat yield response to elevated O3 concentrations differs between the world's major producing regions".
 
-Four files were included in this repository.
-
+Three files were included in this repository.
 01 estimated Dose relationship:
-We develop a method to fit the O3 dose relationship with crop yield and yield components here. 
+We develop a method to fit the O3 dose relationship with crop yield and yield components here. The details of the equations could be find in the manuscript
 
 02relationships between AOT40 and O3
 We explore the relationships betwen AOT40 and hourly O3 concentration using Chinese, European and American O3 observation.
 
-03Plot
-Here are codes for plot figures in the manuscript.
-
-04Wheat_meta.analysis_ref
+03Wheat_meta.analysis_ref
 The references used in this manuscript.
 
-Please leave yourcomments
+This method was developed by Prof. Kazuhiko Kobayashi, Graduate School of Agricultural and Life Sciences, The University of Tokyo, Tokyo, Japan. It was implemented using R by Dr. Yansen Xu, University of Information Science & Technology, Nanjing, China. These studies were supervised by Prof. Zhaozhong Feng, University of Information Science & Technology, Nanjing, China.
+
+Please leave your comments
 Any questions please connect YansenXu via: yansenxu@nuist.edu.cn
 
-References
+References:
+Feng Zhaozhong#*, Xu Yansen#, Kobayashi Kazuhiko#*, Dai Lulu, Zhang Tianyi, Agathokleous Evgenios, Calatayud Vicent, Paoletti Elena, Mukherjee Arideep, Agrawal Madhoolika, Park Rokjin J., Oak Yujin J.,Yue Xu*. (2022). Ozone pollution threatens the production of major staple crops in East Asia. Nature Food, 3(1), 47-56. https://doi.org/10.1038/s43016-021-00422-6 
 
-Zhaozhong Feng#*, Yansen Xu#, Kazuhiko Kobayashi#*, Lulu Dai, Tianyi Zhang, Evgenios Agathokleous, Vicent Calatayud, Elena Paoletti, Arideep Mukherjee, Madhoolika Agrawal, Rokjin J. Park, Yujin J. Oak, Xu Yue*. Ozone pollution threatens the production of major staple crops in East Asia. Nature Food, 2022, 3, 47-56. 
-
-Yansen Xu, Kazuhiko Kobayashi, Zhaozhong Feng*. Wheat yield response to elevated O3 concentrations differs between the world’s major producing regions. 2023. (In Preparation)
+Xu Yansen, Kobayashi Kazuhiko,Feng Zhaozhong*. (2023). Wheat yield response to elevated O3 concentrations differs between the world's major producing regions. Science of the Total Environment, 168103. https://doi.org/https://doi.org/10.1016/j.scitotenv.2023.168103 
